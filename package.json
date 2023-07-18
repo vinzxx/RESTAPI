@@ -4,7 +4,7 @@
   "description": "turu",
   "main": "node index.js",
   "scripts": {
-    "node": "nodemon index.js"
+    "start": "nodemon index.js"
   },
   "repository": {
     "type": "git",
